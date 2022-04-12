@@ -2,8 +2,8 @@
 
 /**
  * _islower - Short description, single line
- * 
- * Return: Always 0.
+ *
+ *Return: Always 0.
  */
 int _islower(int c)
 
