@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- *main-entry point
- *
- * Return: 0
- */
+ *  * main - Entry point
+ *   *
+ *    * Return 0
+ *     */
 int main(void)
 {
 int n;
@@ -26,7 +26,7 @@ printf("%i is negative\n", n);
 
 else 
 {
-printf("%i is positive\n", n);
+printf("%i is positive\n",  n);
 }
 
 return (0);
